@@ -122,6 +122,7 @@ AWS_HEADERS = {
 # stored files.
 {% if cookiecutter.use_whitenoise == 'y' -%}
 MEDIA_URL = 'https://s3.amazonaws.com/%s/' % AWS_STORAGE_BUCKET_NAME
+DEFAULT_FILE_STORAGE = 'storages.backends.s3boto.S3BotoStorage'
 {% else %}
 #  See:http://stackoverflow.com/questions/10390244/
 from storages.backends.s3boto import S3BotoStorage
