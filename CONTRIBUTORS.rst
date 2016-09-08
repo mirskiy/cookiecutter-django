@@ -184,6 +184,7 @@ Listed in alphabetical order.
 .. _@knitatoms: https://github.com/knitatoms
 .. _@krzysztofzuraw: https://github.com/krzysztofzuraw
 .. _@MathijsHoogland: https://github.com/MathijsHoogland
+.. _@mirskiy: https://github.com/mirskiy
 .. _@menzenski: https://github.com/menzenski
 .. _@mfwarren: https://github.com/mfwarren
 .. _@mjsisley: https://github.com/mjsisley
